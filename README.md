@@ -8,7 +8,9 @@ The code can
 - Reverse the diffraction using Pyphase
 
 ![Predicted Heart](git-images/heart_predicted.png)
+
 ![Simulated Heart](git-images/heart_simulated.png)
+
 ![Reversed Heart](git-images/heart_reversed.png)
 
 Due to the limited documentation and tutorials for the Python packages Diffractio and Pyphase, this repo may serve as an example of how to run these packages, although the first party tutorials should naturally be consulted first and foremost.
